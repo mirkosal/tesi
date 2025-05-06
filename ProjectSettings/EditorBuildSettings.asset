@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menuLogin.unity
+    guid: 6ca7b1edfd91f904fa4f5bc22fcd1f62
+  - enabled: 1
+    path: Assets/Scenes/simulationScene.unity
+    guid: 2108560531ff06042852e40ac7625644
+  - enabled: 1
+    path: Assets/Scenes/menuPaziente.unity
+    guid: c2c969d70000b2f40b010a4fa8646747
+  - enabled: 1
+    path: Assets/Scenes/creareTask.unity
+    guid: abb87e0b392d2ab48aa2067f0c83ea91
+  - enabled: 1
+    path: Assets/Scenes/OptionScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: abd9da0b06562d24d925bc0e2b622ce7, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 1e1ca54003f13de4db7ddceeb12e75ca, type: 2}

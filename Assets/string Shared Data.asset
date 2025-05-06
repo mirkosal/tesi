@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: string Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: string
+  m_TableCollectionNameGuidString: b4f50debd43af1543a7bde9d8ff362aa
+  m_Entries:
+  - m_Id: 103187103744
+    m_Key: Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1521762113044480
+    m_Key: build
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1521775765504000
+    m_Key: search
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1525608491139072
+    m_Key: pathology
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1526282448683008
+    m_Key: taxcode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1526660615520256
+    m_Key: birth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536346270089216
+    m_Key: simulation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536644321525760
+    m_Key: deletetask
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1536890850131968
+    m_Key: rename
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1537228286083072
+    m_Key: lstname
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1553093190631424
+    m_Key: conf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2249463820075008
+    m_Key: year
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2252793547997184
+    m_Key: usernamepoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2253171748388864
+    m_Key: passwordpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2253560170299392
+    m_Key: login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2261760613433344
+    m_Key: lngen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2262078407458816
+    m_Key: lnit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3171305175007232
+    m_Key: save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3171587468443648
+    m_Key: choosedir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7261898478075904
+    m_Key: add
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7262027478089728
+    m_Key: del
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7293877047148544
+    m_Key: opt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7318035839729664
+    m_Key: bk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12357606210158592
+    m_Key: desc
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1610667037137567768
+  references:
+    version: 2
+    RefIds:
+    - rid: 1610667037137567768
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1717686707052

@@ -1,0 +1,3 @@
+In questa tesi è descritto il software open source che permette al fisioterapista o fisiatra, tramite delle interfacce grafiche, di gestire i dati dei pazienti e costruire task per la teleriabilitazione della mano da dati acquisiti con il Virtual Glove.
+
+Sviluppo di interfacce per il supporto alla riabilitazione.
